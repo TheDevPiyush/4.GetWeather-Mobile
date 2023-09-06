@@ -1,16 +1,18 @@
 # what_is_the_weather
 
-A new Flutter project.
+## Intro
 
-## Getting Started
+'What is the weather' is a Android / iOS App. 
+It uses Rapid API service to get weather details for a location. The initial location is the current location of the user, but users can search desired location. 
 
-This project is a starting point for a Flutter application.
+## UI
 
-A few resources to get you started if this is your first Flutter project:
+The UI is completely self coded, inspired by glass effect which is used mostly used in iOS apps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project installation & running 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download flutter SDK > set the path for the SDK in the system > Go to root folder of the project in terminal > run `flutter run`.
+
+## App installation
+
+you can download the live app [here](https://play.google.com/store/apps/details?id=app.web.thedevpiyush.weather).
