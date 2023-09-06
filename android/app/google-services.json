@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "571268741219",
+    "project_id": "whatistheweather-78aaa",
+    "storage_bucket": "whatistheweather-78aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571268741219:android:8fbe9fa9bc961cb74ce056",
+        "android_client_info": {
+          "package_name": "com.example.what_is_the_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571268741219-c938hen62rqtpd0m713ettqirjbggu2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcF1S0NxPM1U9bs49XiHyPjmb_TvsTBbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571268741219-c938hen62rqtpd0m713ettqirjbggu2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571268741219-aind3s6ph9hcgdutslhjjmn8qp63gnlg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whatIsTheWeather.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
