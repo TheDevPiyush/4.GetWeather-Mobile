@@ -78,7 +78,7 @@ class _HomeScreenState extends State<HomeScreen> {
               "https://weatherapi-com.p.rapidapi.com/forecast.json?q=$inputValue&days=3"),
           headers: {
             'X-RapidAPI-Key':
-                'ccbbb9265fmsh23310fd9f46a253p1c2e41jsn6a15149f6366',
+                'YOUR_API_KEY',
             'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com',
           });
 
